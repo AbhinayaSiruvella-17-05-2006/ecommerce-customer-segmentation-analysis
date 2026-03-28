@@ -49,7 +49,8 @@ Total Customers
 
 2️⃣ Monthly Sales Trend (must have)
 
-👉 File: monthly_sales_trend.jpeg
+![monthly_sales_trend](https://github.com/user-attachments/assets/c936348b-69e1-4328-8eba-fd8be408b375)
+
 
 ✔️ Shows:
 
@@ -59,7 +60,8 @@ Seasonality
 
 3️⃣ Customer Segmentation 
 
-👉 File: customer_segmentation_rfm_dashboard.jpeg
+![customer_segmentation_rfm_dashboard](https://github.com/user-attachments/assets/13d35f36-cc96-4fb6-befa-d687942e1b81)
+
 
 ✔️ Shows:
 
