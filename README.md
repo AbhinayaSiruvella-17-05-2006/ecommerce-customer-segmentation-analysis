@@ -56,7 +56,7 @@ Growth pattern
 
 Seasonality
 
-3️⃣ Customer Segmentation (MOST IMPORTANT 🔥)
+3️⃣ Customer Segmentation 
 
 👉 File: customer_segmentation_rfm_dashboard.jpeg
 
