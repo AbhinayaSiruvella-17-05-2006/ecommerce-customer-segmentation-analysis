@@ -36,7 +36,8 @@ Dashboard Preview
 
 1️⃣ KPI Overview
 
-👉 File: sales_summary_kpi_dashboard.jpeg
+![sales_summary_kpi_dashboard](https://github.com/user-attachments/assets/1f958084-0fb8-43d3-ab1f-d893ae256d12)
+
 
 ✔️ Shows:
 
