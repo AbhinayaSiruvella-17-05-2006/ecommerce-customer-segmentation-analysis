@@ -32,6 +32,44 @@ CSV / Excel
 
 ---
 
+Dashboard Preview
+
+1️⃣ KPI Overview
+
+👉 File: sales_summary_kpi_dashboard.jpeg
+
+✔️ Shows:
+
+Total Sales
+
+Total Orders
+
+Total Customers
+
+2️⃣ Monthly Sales Trend (must have)
+
+👉 File: monthly_sales_trend.jpeg
+
+✔️ Shows:
+
+Growth pattern
+
+Seasonality
+
+3️⃣ Customer Segmentation (MOST IMPORTANT 🔥)
+
+👉 File: customer_segmentation_rfm_dashboard.jpeg
+
+✔️ Shows:
+
+RFM analysis
+
+Customer insights
+
+Business thinking
+
+---
+
 📂 Dataset
 
 The project uses a retail (Superstore) dataset containing:
